@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/icons">
+    <file>Fa-Team-Fontawesome-FontAwesome-File-Waveform.ico</file>
+  </qresource>
+</RCC>
+
