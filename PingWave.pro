@@ -15,6 +15,8 @@ SOURCES += \
     src\scrollArea.cpp \
     src\widget.cpp
 
+INCLUDEPATH += include
+
 HEADERS += \
     include\customPlot.h \
     include\mainWindow.h \
